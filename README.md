@@ -26,7 +26,8 @@ This repository is the **starter** for your End Semester Project submission in G
 
 * Mention all the related instructions for installation of related packages for running your code here.
 
----used packages are numpy , pandas , matlplotlib and scikit-learn
+---
+used packages are numpy , pandas , matlplotlib and scikit-learn
 
 ## ▶️ Running the Code
 
