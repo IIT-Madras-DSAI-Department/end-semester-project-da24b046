@@ -46,7 +46,7 @@ I have submitted two .py files and one .ipynb file , to run .py files you just n
 
 ## 🧾 Authors
 
-**<PNV Navadeep, DA24B046>**, IIT Madras (2025–26)
+**PNV Navadeep, DA24B046**, IIT Madras (2025–26)
 
 
 ## Best Practices:
