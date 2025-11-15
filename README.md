@@ -26,7 +26,7 @@ This repository is the **starter** for your End Semester Project submission in G
 
 * Mention all the related instructions for installation of related packages for running your code here.
 
----
+---used packages are numpy , pandas , matlplotlib and scikit-learn
 
 ## ▶️ Running the Code
 
@@ -37,6 +37,7 @@ All experiments should be runnable from the command line **and** reproducible in
 * Mention the instructions to run you .py files.
   
 ---
+I have submitted two .py files and one .ipynb file , to run .py files you just need the mentioned packages and .ipynb is used for my reference to tune hyper parameters and for confusion matrix
 
 ## You can further add your own sections/titles along with corresponding contents here:
 
@@ -44,7 +45,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**<PNV Navadeep, DA24B046>**, IIT Madras (2025–26)
 
 
 ## Best Practices:
